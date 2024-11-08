@@ -12,13 +12,15 @@ Este proyecto contiene pruebas automatizadas para la aplicación web utilizando 
 ## Instalación
 
 1. Clona el repositorio:
-   ```bash
-   git clone https://tu-repositorio.git
-   cd tu-repositorio
+   ```json
+   git clone https://github.com/Williams392/test-python-selenium.git
+   cd test-python-selenium
+   ```
 
 2. Configuracion del TEST-PYTHON-SELENIUM:
-   ```bash
+   ```json
    1.1 comando-crear -> python -m venv venv
    1.2 comando-activar -> source venv/Scripts/activate
    1.3 comando -> pip install -r requirements.txt  ( para descargar las librerias Instalas de Python)
    1.4 comando -> deactivate
+   ```
