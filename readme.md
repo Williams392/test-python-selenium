@@ -1,4 +1,4 @@
-# Proyecto de Pruebas Automatizadas
+# Proyecto de Pruebas Unitarias
 
 Este proyecto contiene pruebas automatizadas para la aplicación web utilizando Selenium y pytest.
 
